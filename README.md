@@ -5,8 +5,8 @@ Our job today was to help V. Isualize with tracking data for the ride share comp
 ## Results
 ### Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
-<img width="600" alt="Pyber_fare_chart" src="https://user-images.githubusercontent.com/111014191/189506122-e7d8572a-858f-4a83-bab0-afc60820f060.png">
-![Pyber_fare_summary](https://user-images.githubusercontent.com/111014191/189506127-0297fe8b-0b8e-485c-9863-6da0d4fa3f0f.png)
+<img width="600" alt="Pyber_fare_chart" src="https://user-images.githubusercontent.com/111014191/189506136-7a306a68-1139-45af-902f-fd80a4bf271d.png">
+![Pyber_fare_summary](https://user-images.githubusercontent.com/111014191/189506139-020e32c2-8f50-4038-8e42-3bed2357c9c3.png)
 
 ## Summary
 ### Based on the results, provide three business recommendations to the CEO for addressing any disparities among city types.
